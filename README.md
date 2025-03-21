@@ -2,15 +2,15 @@
 Am I even on Fandom anymore? Removes all mentions of fandom on fandom. Allows for a clean way to view information without all the fandom bloat.
 
 # How to use
-Userscript: Only have to do it once
+**Userscript:** Only have to do it once
 1. Download an extension like tampermonkey.
 2. Upload userscript.js
 
-Stylscript: Only have to do it once
+**Stylscript:** Only have to do it once
 1. Download an extension like stylish.
 2. Upload stylescript.css
 
-No extension: Have to do it for every fandom
+**No extension:** Have to do it for every fandom
 1. Go to fandom.com
 2. Create an account
 3. Click on profile in top right
