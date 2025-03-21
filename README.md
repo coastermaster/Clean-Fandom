@@ -3,10 +3,14 @@ Am I even on Fandom anymore? Removes all mentions of fandom on fandom. Allows fo
 
 # How to use
 Userscript:
-Use an extension like tampermonkey.
+1. Download an extension like tampermonkey.
+2. Upload userscript.js
+Only have to do it once
 
 Stylscript:
-Use an extension like stylish.
+1. Download an extension like stylish.
+2. Upload stylescript.css
+Only have to do it once
 
 No extension:
 1. Go to fandom.com
@@ -17,3 +21,4 @@ No extension:
 6. Then Custom CSS
 7. Edit it and add the stylescript.css
 8. Save
+Have to do it for every fandom
